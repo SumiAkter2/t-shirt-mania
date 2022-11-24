@@ -1,0 +1,29 @@
+.t-shirt img{
+ width:250px;
+ height: 300px;
+margin-top: 10px;
+}
+.t-shirt{
+   width: 300px;
+    border: 2px solid rgb(163, 14, 126);
+   background-color: rgb(189, 131, 242);
+   margin: 0px;
+   
+}
+.t-shirt:hover{
+    background-color:plum;
+}
+.add-btn{
+    color: #FFFFFF;
+    background-color:purple;
+    padding: 8px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: 20px;
+ 
+}
+.add-btn:hover{
+    background-color: rgb(245, 102, 209);
+    color: blue;
+    cursor: pointer;
+}
